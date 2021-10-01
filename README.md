@@ -9,13 +9,13 @@ A study on encoding english sentences to tensorflow vectors or tensors using pre
 
 - DistillBERT
 - RoBERTa
-- https://miro.medium.com/max/2000/1*IFVX74cEe8U5D1GveL1uZA.png 
-<img src="https://miro.medium.com/max/2000/1*IFVX74cEe8U5D1GveL1uZA.png " alt="Smiley face" height="75%" width="75%">
+- General Language Understanding Evaluation ([GLUE](https://gluebenchmark.com/))
+- BERT_base
+- BERT_large
 
-- https://miro.medium.com/max/1400/1*bSUO_Qib4te1xQmBlQjWaw.png
-<img src="https://miro.medium.com/max/1400/1*bSUO_Qib4te1xQmBlQjWaw.png " alt="Smiley face" height="75%" width="75%">
+### A Timeline of Various BERT Implementations
 
-- General Language Understanding Evaluation (GLUE)  : https://gluebenchmark.com/
+[Timeline of the Implementations of BERT](BERT_Timeline.png)
 
 ## Study of BERT Encoding
 
