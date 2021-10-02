@@ -43,4 +43,14 @@ Then, the weights of the pre-trained model are fine-tuned as required for a part
 
 Here we have studied the uncased [DistilBERT](https://arxiv.org/abs/1910.01108) model in detail, and how to implement it in practice to obtain the standard 768-dimensional feature vectors of any English sentence encoded using the pre-trained model. 
 
-## SQuAD
+## [SQuAD](https://rajpurkar.github.io/SQuAD-explorer/) (Standford Question Answering Dataset) Model
+
+SQuAD2.0 combines the 100,000 questions in SQuAD1.1 with over 50,000 unanswerable questions written adversarially by crowdworkers to look similar to answerable ones. To do well on SQuAD2.0, systems must not only answer questions when possible, but also determine when no answer is supported by the paragraph and abstain from answering.
+
+Here, we have examined in detail this BERT-based model fine-tuned for the specific task of Question Answering. We have used the SQuAD implementation on the Huggingface library.
+
+## References
+
+* [Mobile BERT QA System (code in pure TF/Keras)](https://www.tensorflow.org/lite/models/bert_qa/overview)
+* [Testing BERT based Question Answering on Coronavirus articles](https://towardsdatascience.com/testing-bert-based-question-answering-on-coronavirus-articles-13623637a4ff)
+* [Examples of fine-tuning BERT on custom-data](https://huggingface.co/transformers/examples.html#squad)
