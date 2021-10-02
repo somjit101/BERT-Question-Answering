@@ -34,9 +34,9 @@ The pre-training of a BERT model is done by 2 main methods :
 - Masked Language Model (MLM)
 - Next Sentence Prediction (NSP)
 
-Then, the weights of the pre-tain
+Then, the weights of the pre-trained model are fine-tuned as required for a particular use case. We can refer [this paper](https://arxiv.org/pdf/1810.04805.pdf) to learn more about fine-tuning BERT for various specific tasks. 
 
-We can refer [this paper](https://arxiv.org/pdf/1810.04805.pdf) to learn more about fine-tuning BERT for various specific tasks. 
+![BERT Pre-Training and Fine-tuning](BERT_Training.png)
 
 
 ## Study of BERT Encoding
