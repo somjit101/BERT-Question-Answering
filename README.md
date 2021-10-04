@@ -56,3 +56,4 @@ Here, we have examined in detail this BERT-based model fine-tuned for the specif
 * [Examples of fine-tuning BERT on custom-data](https://huggingface.co/transformers/examples.html#squad)
 * [HuggingFace NLP with Tensorflow 2.0](https://medium.com/tensorflow/using-tensorflow-2-for-state-of-the-art-natural-language-processing-102445cda54a)
 * [HuggingFace IPython Notebooks](https://huggingface.co/transformers/notebooks.html)
+* [Testing SQuAD with Amazon Rainforest Passage by Rajpurkar](https://rajpurkar.github.io/SQuAD-explorer/explore/v2.0/dev/Amazon_rainforest.html?model=nlnet%20(single%20model)%20(Microsoft%20Research%20Asia)&version=v2.0)
